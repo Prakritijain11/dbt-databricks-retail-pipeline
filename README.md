@@ -20,7 +20,7 @@ A layered dbt project that transforms retail sales data in Databricks using a br
 ## Project layout
 
 ```text
-DBT_Project/
+dbt-databricks-retail-pipeline/
 |- DBT_Project_youtube_new/
 |  |- models/
 |  |  |- source/      # source definitions
